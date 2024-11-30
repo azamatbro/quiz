@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jan  5 09:37:15 2024
-@author: HP
+@author: Azamat
 """
 
 questions = ("How many elements in the Mendeleyev table?: ",
