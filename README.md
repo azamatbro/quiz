@@ -1,2 +1,1 @@
-# quiz
-Small Quiz game (viktorina)
+Small quiz game
